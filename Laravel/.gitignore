@@ -1,2 +1,7 @@
-*
-!.gitignore
+/vendor
+/node_modules
+.env
+.phpunit.result.cache
+/public/build
+/public/hot
+/storage/*.key
